@@ -194,7 +194,7 @@ export default function Home() {
           onClick={handleSecretClick}
           className="text-xs text-gray-500 row-start-3 mb-2 sm:cursor-heart hover:text-gray-600 transition-colors"
         >
-          Created by Xocash695
+          Created by Xocash695 Source Code: https://github.com/Xocash695/my-valentine.git
         </p>
       </div>
     </div>

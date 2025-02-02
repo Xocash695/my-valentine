@@ -72,7 +72,9 @@ export default function YesPage() {
       
         <main className="flex flex-col gap-8 row-start-2 items-center text-center z-10">
           <div className="text-center space-y-6 relative">
-            <span className="absolute bottom-[-50px] right-2 text-[9px] text-pink-200/30">The secret code is 1435</span>
+          <span className="absolute top-[-40px] right-2 text-[10px] text-pink-400/20 hover:text-pink-500 transition-colors">
+            hint: 1435
+          </span>
             
             <h1 className="text-3xl font-bold">Thank you so much! 
               <span 
